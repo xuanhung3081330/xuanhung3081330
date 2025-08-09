@@ -1,11 +1,12 @@
-## Hi,
-thanks for visiting my GitHub profile
+## Hi there,
+Thanks for visiting my GitHub profile
 
 ## Here are some details about me:
 - I'm 27 years old.
 - Currently living in Tokyo.
 - Working in FPT Japan as a Cloud Engineer
 - My main focus is AWS, Python, Terraform.
+- I'm really passionate about DevOps technology such as: Kubernetes, Docker and Linux (I also have a homelab and my own environment for this)
 - Currently learning GoLang to contribute to Kubernetes/Docker open source in the future.
 
 ## Homelab:
