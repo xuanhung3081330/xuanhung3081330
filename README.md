@@ -10,7 +10,7 @@ Thanks for visiting my GitHub profile
 - Currently learning GoLang to contribute to Kubernetes/Docker open source in the future.
 
 ## Homelab:
-- Besides company's work, I also have a home lab where I can practice (Application: https://github.com/xuanhung3081330/foodapplication_homelab and K3S's manifests: https://github.com/xuanhung3081330/foodinfra_homelab):
+- Besides company's work, I also have a small homelab where I can practice (Application: https://github.com/xuanhung3081330/foodapplication_homelab and K3S's manifests: https://github.com/xuanhung3081330/foodinfra_homelab):
 - + Kubernetes (K3S)
   + Docker
   + Linux (Arch)
