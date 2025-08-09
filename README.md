@@ -1,5 +1,5 @@
 ## Hi,
-## thanks for visiting my GitHub profile
+thanks for visiting my GitHub profile
 
 ## Here are some details about me:
 - I'm 27 years old.
