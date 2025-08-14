@@ -19,10 +19,10 @@ Thanks for visiting my GitHub profile
  
 ## Repos:
 - Here are the 4 repos that I'm currently working on:
-  + myconfigs - A playground for me to practice, learn, and experiment with Linux/OS internals.
-  + learning_go - A playground for me to experiment, and learn the features of Go
-  + foodapplication_homelab - This project was created as a way to learn Go. It’s nothing serious — just a playground backend API that I use for deploying to my bare-metal k3s cluster.
-  + foodinfra_homelab - This project is a playground for me to practice Kubernetes.
+  + **myconfigs** - A playground for me to practice, learn, and experiment with Linux/OS internals.
+  + **learning_go** - A playground for me to experiment, and learn the features of Go
+  + **foodapplication_homelab** - This project was created as a way to learn Go. It’s nothing serious — just a playground backend API that I use for deploying to my bare-metal k3s cluster.
+  + **foodinfra_homelab** - This project is a playground for me to practice Kubernetes.
 
 <!--
 **xuanhung3081330/xuanhung3081330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
