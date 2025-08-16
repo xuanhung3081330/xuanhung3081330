@@ -1,5 +1,10 @@
 ## Hi there,
-Thanks for visiting my GitHub profile
+Welcome to my GitHub profile, and thank you for visiting!
+Here you will find a collection of repositories reflecting my work and learning in:
+- Linux (Arch Linux) – system configuration, networking, package management, and security (SELinux)
+- Software Development – primarily in Go and Python
+- Cloud & Container Technologies – Docker, Kubernetes, and related tooling
+- Performance & Benchmarking – experiments such as comparing processes vs threads and other system-level studies
 
 ## Here are some details about me:
 - I'm 27 years old.
